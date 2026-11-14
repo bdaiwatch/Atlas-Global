@@ -1,0 +1,6 @@
+{
+  "name": "Atlas AI Institute Directory",
+  "description": "Multi-Organization & Member Single-Page Profile Directory with Supabase Auth, PostgreSQL RLS, and Bilingual Support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
